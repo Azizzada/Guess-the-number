@@ -10,9 +10,6 @@ const dice = document.querySelector(".dice");
 const btnRoll = document.querySelector(".btn--roll");
 const btnHold = document.querySelector(".btn--hold");
 const btnNew = document.querySelector(".btn--new");
-// score0Element.textContent = 0;
-// score1Element.textContent = 0;
-// dice.classList.add("hidden");
 
 let currentScore;
 let activePlayer;
